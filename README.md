@@ -1,3 +1,4 @@
+hello
 # Intro to Hashes Lab
 
 ## Objectives
